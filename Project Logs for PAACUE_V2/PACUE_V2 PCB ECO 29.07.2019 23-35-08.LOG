@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=AD0 Pin=U2-23
+Removed Pin From Net: NetName=AD1 Pin=U2-24
+Removed Pin From Net: NetName=AD2 Pin=U2-25
+Removed Pin From Net: NetName=AD3 Pin=U2-26
+Added Pin To Net: NetName=AD1 Pin=U2-1
+Added Pin To Net: NetName=AD2 Pin=U2-2
+Added Pin To Net: NetName=AD3 Pin=U2-9
+Added Pin To Net: NetName=AD0 Pin=U2-32
+Added Member To Class: ClassName=PACUE_V2 Member=Component RJ_1 RJ_45SE
+Added Room: Name=PACUE_V2

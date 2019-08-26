@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=NetQ1_2 Pin=R2-1
+Removed Pin From Net: NetName=PWM Pin=R2-2
+Change Component Footprint: Designator=R2 Old Footprint=0603 New Footprint=R0603
+Change Component Footprint: Designator=R4 Old Footprint=0603 New Footprint=R0603
+Change Component Comment : Designator=R4 Old Comment=Res2 New Comment=1k
+Change Component Comment : Designator=R2 Old Comment=Res2 New Comment=200
+Change component parameters: Designator = "R2"; Footprint = "R0603"; UniqueID = "\SLRTUGQT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "supplier"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Producer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Producer Nr"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "19-Feb-2006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Nr"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "200"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4"; Footprint = "R0603"; UniqueID = "\USCBTMHY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "supplier"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Producer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Producer Nr"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "19-Feb-2006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Nr"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PWM Pin=R2-1
+Added Pin To Net: NetName=NetQ1_2 Pin=R2-2
+Added Room: Name=PACUE_V2

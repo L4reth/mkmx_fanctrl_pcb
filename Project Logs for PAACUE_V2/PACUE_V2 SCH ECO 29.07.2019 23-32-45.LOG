@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=Y1 Old Footprint=3,2x2,5x0,8mm New Footprint=5,0x3,2x0,9mm
+Change Component Footprint: Designator=R1 Old Footprint=0603 New Footprint=C1206
+Change Component Footprint: Designator=R2 Old Footprint=0603 New Footprint=C1206
+Change Component Footprint: Designator=R3 Old Footprint=0603 New Footprint=C1206
+Change Component Footprint: Designator=R4 Old Footprint=0603 New Footprint=C1206
+Change Component Footprint: Designator=C5 Old Footprint=C1206 New Footprint=C0805
+Change Component Footprint: Designator=C6 Old Footprint=C1206 New Footprint=C0805
+Change Component Footprint: Designator=L1 Old Footprint=INDC1608L New Footprint=L1210
+Change Component Designator: OldDesignator=RJ_1 NewDesignator=RJ_2
+Change Component Designator: OldDesignator=RJ_45SE NewDesignator=RJ_1

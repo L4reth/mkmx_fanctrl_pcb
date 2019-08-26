@@ -1,0 +1,37 @@
+Change Component Footprint: Designator=R5 Old Footprint=C1206 New Footprint=R0805
+Change Component Comment : Designator=R5 Old Comment=Res2 New Comment=1k
+Change component parameters: Designator = "R5"; Footprint = "R0805"; UniqueID = "\UINTLIYM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "supplier"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Producer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Producer Nr"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "19-Feb-2006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Nr"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=PACUE_V2 Member=Component C1 Cap
+Added Member To Class: ClassName=PACUE_V2 Member=Component C2 Cap
+Added Member To Class: ClassName=PACUE_V2 Member=Component C3 Cap
+Added Member To Class: ClassName=PACUE_V2 Member=Component C4 Cap Pol1
+Added Member To Class: ClassName=PACUE_V2 Member=Component C5 Cap
+Added Member To Class: ClassName=PACUE_V2 Member=Component C6 Cap
+Added Member To Class: ClassName=PACUE_V2 Member=Component CN1 IDC Connector
+Added Member To Class: ClassName=PACUE_V2 Member=Component CN* CN_35
+Added Member To Class: ClassName=PACUE_V2 Member=Component L1 Inductor
+Added Member To Class: ClassName=PACUE_V2 Member=Component P1 Header 4X2
+Added Member To Class: ClassName=PACUE_V2 Member=Component Q1 DMG1016UDW
+Added Member To Class: ClassName=PACUE_V2 Member=Component R1 Res2
+Added Member To Class: ClassName=PACUE_V2 Member=Component R2 Res2
+Added Member To Class: ClassName=PACUE_V2 Member=Component R3 Res2
+Added Member To Class: ClassName=PACUE_V2 Member=Component R4 Res2
+Added Member To Class: ClassName=PACUE_V2 Member=Component R5 1k
+Added Member To Class: ClassName=PACUE_V2 Member=Component RJ_1 RJ_45SE
+Added Member To Class: ClassName=PACUE_V2 Member=Component SW* DTS32_switch
+Added Member To Class: ClassName=PACUE_V2 Member=Component U1 MAX485CSA+
+Added Member To Class: ClassName=PACUE_V2 Member=Component U2 ATmega328P-AU
+Added Member To Class: ClassName=PACUE_V2 Member=Component Y1 16,00 MHz
+Added Room: Name=PACUE_V2
